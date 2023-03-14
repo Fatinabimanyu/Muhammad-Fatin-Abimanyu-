@@ -3,4 +3,4 @@
 
 [![Github stats](https://github-readme-stats.vercel.app/api?username=Fatinabimanyu&show_icons=true&include_all_commits=true&theme=radical)](https://github.com/anantapridya/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anantapridya&layout=compact&theme=radical)](https://github.com/Fatinabimanyu/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Fatinabimanyu&layout=compact&theme=radical)](https://github.com/Fatinabimanyu/github-readme-stats)
